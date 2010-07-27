@@ -1,0 +1,15 @@
+execUserReset()
+{
+  __writeMemory32(0x10000000, 0xE000ED08, "Memory"); //Vector table remap at 0x10000000
+  __writeMemory32(0x00000002, 0x400480AC, "Memory"); //Set Trace Clock Devider
+  __writeMemory32(__readMemory32(0x40048080, "Memory")|(1<<16), 0x40048080, "Memory"); //Enalbe ICON Clock
+  __writeMemory32(0x00000053, 0x40044064, "Memory"); //Set PIO0_9 as SWO
+}
+
+execUserPreload()
+{
+  __writeMemory32(0x10000000, 0xE000ED08, "Memory"); //Vector table remap at 0x10000000
+  __writeMemory32(0x00000002, 0x400480AC, "Memory"); //Set Trace Clock Devider
+  __writeMemory32(__readMemory32(0x40048080, "Memory")|(1<<16), 0x40048080, "Memory"); //Enalbe ICON Clock
+  __writeMemory32(0x00000053, 0x40044064, "Memory"); //Set PIO0_9 as SWO
+}

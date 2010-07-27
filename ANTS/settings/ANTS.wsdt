@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ANTS/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>469</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>655</ColumnWidth1><ColumnWidth2>153</ColumnWidth2><ColumnWidth3>38</ColumnWidth3></Build>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1></Debug-Log>
+      <TerminalIO/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29151-11717</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ANTS</ExpandedNode><ExpandedNode>ANTS/Common</ExpandedNode><ExpandedNode>ANTS/cc_libs</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11878-15315</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-21143-22715</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ANTS_Common_IAR\inc\type.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ANTS_Common_IAR\inc\stdint.h</Filename><XPos>0</XPos><YPos>36</YPos><SelStart>473</SelStart><SelEnd>473</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ANTS_common_IAR\src\gpio.c</Filename><XPos>0</XPos><YPos>425</YPos><SelStart>11828</SelStart><SelEnd>11840</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ANTS_Common_IAR\inc\LPC13xx.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>4598</SelStart><SelEnd>4613</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ANTS_Common_IAR\inc\gpio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>798</SelStart><SelEnd>798</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>505</SelStart><SelEnd>505</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ANTS_common_IAR\src\timer32.c</Filename><XPos>0</XPos><YPos>163</YPos><SelStart>6024</SelStart><SelEnd>6024</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ANTS_common_IAR\src\ssp.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\cc_libs\CC_spi.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>344</SelStart><SelEnd>344</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\cc_libs\CC_spi.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>332</SelStart><SelEnd>332</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\cc_libs\CC2500.c</Filename><XPos>0</XPos><YPos>139</YPos><SelStart>8125</SelStart><SelEnd>8224</SelEnd></Tab><ActiveTab>10</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\cc_libs\CC_CC2500.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>157</SelStart><SelEnd>157</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\ANTS_Common_IAR\inc\ssp.h</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>3376</SelStart><SelEnd>3395</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\cc_libs\CC2500.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>288</SelStart><SelEnd>288</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-011c14a0><key>iaridepm.enu1</key></Toolbar-011c14a0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>564</Bottom><Right>560</Right><x>-2</x><y>-2</y><xscreen>592</xscreen><yscreen>200</yscreen><sizeHorzCX>352381</sizeHorzCX><sizeHorzCY>236407</sizeHorzCY><sizeVertCX>334524</sizeVertCX><sizeVertCY>669031</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>237</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>239</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>282506</sizeHorzCY><sizeVertCX>352381</sizeVertCX><sizeVertCY>236407</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

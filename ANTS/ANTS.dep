@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>8894590</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\ANTS_common_IAR\inc\arm_comm.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2c.o</file>
+      <file>$PROJ_DIR$\ads_libs\ads1115.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\ssp.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmu.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer16.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_LPC13xx.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\clkconfig.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\core_cm3.o</file>
+      <file>$PROJ_DIR$\ads_libs\ads1115.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\inc\board.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\clkconfig.c</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\clkconfig.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\core_cm3.c</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\core_cm3.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\cstartup_M.s</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\gpio.c</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\gpio.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\i2c.c</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\inc\i2c.h</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\LPC13xx.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\pmu.c</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\pmu.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\ssp.c</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\ssp.h</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\stdint.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\system_LPC13xx.c</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\system_LPC13xx.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\inc\systick.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\timer16.c</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\inc\timer16.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\timer32.c</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\inc\timer32.h</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\type.h</file>
+      <file>$PROJ_DIR$\ANTS_common_IAR\src\uart.c</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\uart.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\core_cm3.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\gpio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\i2c.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\pmu.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\ssp.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_LPC13xx.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer16.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer32.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\ANTS.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\ANTS.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tl_in.a</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ads1115.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\..\..\[ROOT_NODE]</file>
+      <file>$PROJ_DIR$\Debug\Obj\ads1115.o</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\timer32.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\icf\LPC1343_Flash.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\uart.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup_M.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\clkconfig.pbi</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\yvals.h</file>
+      <file>$PROJ_DIR$\ANTS_Common_IAR\inc\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CC_spi.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\CC_spi.pbi</file>
+      <file>$TOOLKIT_DIR$\doc\infocenter\index.ENU.html</file>
+      <file>$PROJ_DIR$\cc_libs\CC_spi.c</file>
+      <file>$PROJ_DIR$\cc_libs\CC_spi.h</file>
+      <file>$PROJ_DIR$\cc_libs\CC_CC2500.h</file>
+      <file>$PROJ_DIR$\cc_libs\CC2500.c</file>
+      <file>$PROJ_DIR$\cc_libs\CC2500.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CC2500.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\CC2500.pbi</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ads_libs\ads1115.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\clkconfig.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 15 26 69 68 52 55 56 57 54 28 13</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 15 26 69 68 52 50 55 56 57 54 28 13</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\core_cm3.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 69 68 52 55 56 57</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26 69 68 52 50 55 56 57</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\cstartup_M.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 15 26 69 68 52 55 56 57 54 28 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 15 26 69 68 52 50 55 56 57 54 28 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 15 26 69 68 52 55 56 57 54 28 34 20</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 15 26 69 68 52 50 55 56 57 54 28 34 20</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\pmu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 15 26 69 68 52 55 56 57 54 28 34 18 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 15 26 69 68 52 50 55 56 57 54 28 34 18 23</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\ssp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 15 26 69 68 52 55 56 57 54 28 18 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 15 26 69 68 52 50 55 56 57 54 28 18 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\system_LPC13xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26 69 68 52 55 56 57 21 15 54 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26 69 68 52 50 55 56 57 21 15 54 28</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\timer16.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 15 26 69 68 52 55 56 57 54 28 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 15 26 69 68 52 50 55 56 57 54 28 31</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\timer32.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 15 26 69 68 52 55 56 57 54 28 33 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 15 26 69 68 52 50 55 56 57 54 28 33 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ANTS_common_IAR\src\uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 65</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 15 26 69 68 52 55 56 57 54 28 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 15 26 69 68 52 50 55 56 57 54 28 36</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 26 69 68 52 55 56 57 21 15 54 18 25 20 33 31 10 74 75</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 26 69 68 52 50 55 56 57 21 15 54 18 25 20 33 31 10 74 75</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\ANTS.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 64 78 70 60 8 9 66 3 1 58 5 4 7 6 62 65 61 63 51</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\ANTS.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 79 71 53 67 38 39 40 49 41 42 43 44 45 46</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\..\..\..\[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_libs\CC_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74 21 15 26 69 68 52 55 56 57 54 28 25 18 75</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 74 21 15 26 69 68 52 50 55 56 57 54 28 25 18 75</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cc_libs\CC2500.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77 75 74 21 15 26 69 68 52 55 56 57 54 28 25 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77 75 74 21 15 26 69 68 52 50 55 56 57 54 28 25 18</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

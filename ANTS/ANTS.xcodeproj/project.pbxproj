@@ -1,0 +1,208 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		432C46ED11F7924000C28106 /* ads1115.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ads1115.c; sourceTree = "<group>"; };
+		432C46EE11F7924000C28106 /* ads1115.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ads1115.h; sourceTree = "<group>"; };
+		43AF21E111F727BB0063E617 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		43AF221A11F73E540063E617 /* arm_comm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = arm_comm.h; sourceTree = "<group>"; };
+		43AF221B11F73E540063E617 /* board.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = board.h; sourceTree = "<group>"; };
+		43AF221C11F73E540063E617 /* clkconfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = clkconfig.h; sourceTree = "<group>"; };
+		43AF221D11F73E540063E617 /* core_cm3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = core_cm3.h; sourceTree = "<group>"; };
+		43AF221E11F73E540063E617 /* gpio.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gpio.h; sourceTree = "<group>"; };
+		43AF221F11F73E540063E617 /* i2c.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = i2c.h; sourceTree = "<group>"; };
+		43AF222011F73E540063E617 /* LPC13xx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LPC13xx.h; sourceTree = "<group>"; };
+		43AF222111F73E540063E617 /* pmu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = pmu.h; sourceTree = "<group>"; };
+		43AF222211F73E540063E617 /* ssp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ssp.h; sourceTree = "<group>"; };
+		43AF222311F73E540063E617 /* stdint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdint.h; sourceTree = "<group>"; };
+		43AF222411F73E540063E617 /* system_LPC13xx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = system_LPC13xx.h; sourceTree = "<group>"; };
+		43AF222511F73E540063E617 /* systick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = systick.h; sourceTree = "<group>"; };
+		43AF222611F73E540063E617 /* timer16.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = timer16.h; sourceTree = "<group>"; };
+		43AF222711F73E540063E617 /* timer32.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = timer32.h; sourceTree = "<group>"; };
+		43AF222811F73E540063E617 /* type.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = type.h; sourceTree = "<group>"; };
+		43AF222911F73E540063E617 /* uart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = uart.h; sourceTree = "<group>"; };
+		43AF222B11F73E540063E617 /* clkconfig.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = clkconfig.c; sourceTree = "<group>"; };
+		43AF222C11F73E540063E617 /* core_cm3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = core_cm3.c; sourceTree = "<group>"; };
+		43AF222D11F73E540063E617 /* cstartup_M.s */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.asm; path = cstartup_M.s; sourceTree = "<group>"; };
+		43AF222E11F73E540063E617 /* gpio.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = gpio.c; sourceTree = "<group>"; };
+		43AF222F11F73E540063E617 /* i2c.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = i2c.c; sourceTree = "<group>"; };
+		43AF223011F73E540063E617 /* pmu.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = pmu.c; sourceTree = "<group>"; };
+		43AF223111F73E540063E617 /* ssp.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ssp.c; sourceTree = "<group>"; };
+		43AF223211F73E540063E617 /* system_LPC13xx.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = system_LPC13xx.c; sourceTree = "<group>"; };
+		43AF223311F73E540063E617 /* timer16.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = timer16.c; sourceTree = "<group>"; };
+		43AF223411F73E540063E617 /* timer32.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = timer32.c; sourceTree = "<group>"; };
+		43AF223511F73E540063E617 /* uart.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = uart.c; sourceTree = "<group>"; };
+		43FDAFF611FA1FD800567B56 /* ycheck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ycheck.h; sourceTree = "<group>"; };
+		43FDAFF811FA205300567B56 /* yvals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = yvals.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		432C46EC11F7924000C28106 /* ads_libs */ = {
+			isa = PBXGroup;
+			children = (
+				432C46ED11F7924000C28106 /* ads1115.c */,
+				432C46EE11F7924000C28106 /* ads1115.h */,
+			);
+			path = ads_libs;
+			sourceTree = "<group>";
+		};
+		43AF219A11F719C00063E617 = {
+			isa = PBXGroup;
+			children = (
+				432C46EC11F7924000C28106 /* ads_libs */,
+				43AF221811F73DAD0063E617 /* ANTS_common_IAR */,
+				43AF21E111F727BB0063E617 /* main.c */,
+			);
+			sourceTree = "<group>";
+		};
+		43AF221811F73DAD0063E617 /* ANTS_common_IAR */ = {
+			isa = PBXGroup;
+			children = (
+				43AF221911F73E540063E617 /* inc */,
+				43AF222A11F73E540063E617 /* src */,
+			);
+			path = ANTS_common_IAR;
+			sourceTree = "<group>";
+		};
+		43AF221911F73E540063E617 /* inc */ = {
+			isa = PBXGroup;
+			children = (
+				43FDAFF811FA205300567B56 /* yvals.h */,
+				43FDAFF611FA1FD800567B56 /* ycheck.h */,
+				43AF221A11F73E540063E617 /* arm_comm.h */,
+				43AF221B11F73E540063E617 /* board.h */,
+				43AF221C11F73E540063E617 /* clkconfig.h */,
+				43AF221D11F73E540063E617 /* core_cm3.h */,
+				43AF221E11F73E540063E617 /* gpio.h */,
+				43AF221F11F73E540063E617 /* i2c.h */,
+				43AF222011F73E540063E617 /* LPC13xx.h */,
+				43AF222111F73E540063E617 /* pmu.h */,
+				43AF222211F73E540063E617 /* ssp.h */,
+				43AF222311F73E540063E617 /* stdint.h */,
+				43AF222411F73E540063E617 /* system_LPC13xx.h */,
+				43AF222511F73E540063E617 /* systick.h */,
+				43AF222611F73E540063E617 /* timer16.h */,
+				43AF222711F73E540063E617 /* timer32.h */,
+				43AF222811F73E540063E617 /* type.h */,
+				43AF222911F73E540063E617 /* uart.h */,
+			);
+			path = inc;
+			sourceTree = "<group>";
+		};
+		43AF222A11F73E540063E617 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				43AF222B11F73E540063E617 /* clkconfig.c */,
+				43AF222C11F73E540063E617 /* core_cm3.c */,
+				43AF222D11F73E540063E617 /* cstartup_M.s */,
+				43AF222E11F73E540063E617 /* gpio.c */,
+				43AF222F11F73E540063E617 /* i2c.c */,
+				43AF223011F73E540063E617 /* pmu.c */,
+				43AF223111F73E540063E617 /* ssp.c */,
+				43AF223211F73E540063E617 /* system_LPC13xx.c */,
+				43AF223311F73E540063E617 /* timer16.c */,
+				43AF223411F73E540063E617 /* timer32.c */,
+				43AF223511F73E540063E617 /* uart.c */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		43FDAFD811FA183700567B56 /* ARM-NONE-EABI */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = 43FDAFE111FA183E00567B56 /* Build configuration list for PBXLegacyTarget "ARM-NONE-EABI" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			dependencies = (
+			);
+			name = "ARM-NONE-EABI";
+			passBuildSettingsInEnvironment = 1;
+			productName = "ARM-NONE-EABI";
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		43AF219C11F719C00063E617 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 43AF219F11F719C00063E617 /* Build configuration list for PBXProject "ANTS" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 43AF219A11F719C00063E617;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				43FDAFD811FA183700567B56 /* ARM-NONE-EABI */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		43AF219D11F719C00063E617 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+		43AF219E11F719C00063E617 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+			};
+			name = Release;
+		};
+		43FDAFD911FA183800567B56 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PRODUCT_NAME = "ARM-NONE-EABI";
+			};
+			name = Debug;
+		};
+		43FDAFDA11FA183800567B56 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				PRODUCT_NAME = "ARM-NONE-EABI";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		43AF219F11F719C00063E617 /* Build configuration list for PBXProject "ANTS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43AF219D11F719C00063E617 /* Debug */,
+				43AF219E11F719C00063E617 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		43FDAFE111FA183E00567B56 /* Build configuration list for PBXLegacyTarget "ARM-NONE-EABI" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43FDAFD911FA183800567B56 /* Debug */,
+				43FDAFDA11FA183800567B56 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 43AF219C11F719C00063E617 /* Project object */;
+}
